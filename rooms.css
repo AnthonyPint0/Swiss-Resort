@@ -319,7 +319,7 @@ header img {
   position: relative;
   overflow: hidden;
   text-align: center;
-  background-color: #fcf3c6af;
+  background-color: rgba(245, 222, 179, 0.308);
 }
 
 .fourth-section #small-header {
